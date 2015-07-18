@@ -1,1 +1,3 @@
-ad4bd4b3-2d5f-11e5-a786-b88d120fff5e
+print 'Contact me: Skype: edsonlb
+ E-Mail: edsonlb@gmail.com
+ Facebook: facebook.com/edsonlb'
